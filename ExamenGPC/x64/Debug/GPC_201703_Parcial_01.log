@@ -1,0 +1,16 @@
+﻿  reinas.cpp
+c:\users\pepe\desktop\github\examengpc\reinas.cpp(181): warning C4101: 'deltaT_seg': variable local sin referencia
+c:\users\pepe\desktop\github\examengpc\reinas.cpp(180): warning C4101: 't0': variable local sin referencia
+c:\users\pepe\desktop\github\examengpc\reinas.cpp(180): warning C4101: 't1': variable local sin referencia
+  planos.cpp
+c:\users\pepe\desktop\github\examengpc\planos.cpp(307): warning C4102: 'clsPlano3D': etiqueta sin referencia
+c:\users\pepe\desktop\github\examengpc\planos.cpp(342): warning C4101: 'z': variable local sin referencia
+c:\users\pepe\desktop\github\examengpc\planos.cpp(342): warning C4101: 'y': variable local sin referencia
+c:\users\pepe\desktop\github\examengpc\planos.cpp(342): warning C4101: 'x': variable local sin referencia
+  ciclos.cpp
+c:\users\pepe\desktop\github\examengpc\ciclos.cpp(75): warning C4101: 'j': variable local sin referencia
+c:\users\pepe\desktop\github\examengpc\ciclos.cpp(75): warning C4101: 'i': variable local sin referencia
+  GPC_201703_Parcial_01.cpp
+  Generando código...
+  GPC_201703_Parcial_01.vcxproj -> C:\Users\Pepe\Desktop\GitHub\ExamenGPC\x64\Debug\GPC_201703_Parcial_01.exe
+  GPC_201703_Parcial_01.vcxproj -> C:\Users\Pepe\Desktop\GitHub\ExamenGPC\x64\Debug\GPC_201703_Parcial_01.pdb (Partial PDB)

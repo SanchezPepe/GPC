@@ -1,0 +1,7 @@
+﻿  planos.cpp
+c:\users\sdist\desktop\156190\gpc_201703_parcial_01\planos.cpp(288): warning C4102: 'clsPlano3D': etiqueta sin referencia
+c:\users\sdist\desktop\156190\gpc_201703_parcial_01\planos.cpp(323): warning C4101: 'z': variable local sin referencia
+c:\users\sdist\desktop\156190\gpc_201703_parcial_01\planos.cpp(323): warning C4101: 'y': variable local sin referencia
+c:\users\sdist\desktop\156190\gpc_201703_parcial_01\planos.cpp(323): warning C4101: 'x': variable local sin referencia
+  GPC_201703_Parcial_01.vcxproj -> C:\Users\sdist\Desktop\156190\GPC_201703_Parcial_01\Debug\GPC_201703_Parcial_01.exe
+  GPC_201703_Parcial_01.vcxproj -> C:\Users\sdist\Desktop\156190\GPC_201703_Parcial_01\Debug\GPC_201703_Parcial_01.pdb (Full PDB)
